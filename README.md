@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Oscar! I'm a Computer Science student who enjoys building software and solving challenging problems. I primarily work with C++ and Python and am especially interested in aerospace software
 
-<!--
-**Oscar-Bonfiglio/Oscar-Bonfiglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
 
-Here are some ideas to get you started:
+- 🧩 Solving puzzles
+- 🏋️ Working out
+- 🏈 Watching sports
+- 💻 Building software projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++, Python
+
+**Tools:** Git, CMake, SFML, Flask, SQLite
+
+## Let's Connect
+
+If you're in the San Diego area and interested in software, aerospace, or technology, feel free to reach out!
