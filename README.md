@@ -9,7 +9,7 @@ Hi, I'm Oscar! I'm a Computer Science student who enjoys building software and s
 
 **Languages:** C++, Python
 
-**Tools:** Git, CMake, SFML, Flask, SQLite
+**Tools:** Git, CMake, SFML, Flask, SQLite, Django
 
 ## Let's Connect
 
