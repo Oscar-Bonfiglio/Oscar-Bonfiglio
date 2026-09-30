@@ -1,4 +1,4 @@
-Hi, I'm Oscar! I'm a Computer Science student who enjoys building software and solving challenging problems. I primarily work with C++ and Python and am especially interested in aerospace software
+Hi, I'm Oscar! I'm a Computer Science student who enjoys building software and solving challenging problems. I primarily work with C++ and Python and am especially interested in aerospace software.
 
 ## Interests
 
